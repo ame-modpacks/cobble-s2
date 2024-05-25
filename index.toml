@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "73ca8e414d5370acc3a2d6eda4f4b7f1c273c78b0f5545a8c42425dec18e22f0"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true
@@ -86,6 +91,26 @@ hash = "cf9852c1ccb3281ea336dfff5cfcce3e3df5b051f6ae0eba975bdd19cf25b667"
 metafile = true
 
 [[files]]
+file = "mods/create-fabric-sodium-fix.pw.toml"
+hash = "0dc9fad2f8048eab5f3ba5d1ee71884046fea3de7e8432df5d1ab66b6e084c85"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "b5a83b1ca240286be1aa97b3c3dd96c2e481dc0332dc2541f900cded4a719a82"
+metafile = true
+
+[[files]]
+file = "mods/ctrl-q.pw.toml"
+hash = "ad2462959438c5181844602ff8489ff7397d87bf7dd1f42b6f9838cd66fc7bc9"
+metafile = true
+
+[[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "39eb9db990032d949909f079ada415ffda18b372ec5d9b23ab95652d88474131"
 metafile = true
@@ -103,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
+metafile = true
+
+[[files]]
+file = "mods/delightful-creators-fabric.pw.toml"
+hash = "2669ee304ddaa3bc3879c25147b12fa382b6baa1cc75153639d33d8f954b9f83"
 metafile = true
 
 [[files]]
@@ -231,6 +261,11 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "996bf4e23ceb3ebe203859eda250fddf210babc15b5683fe585159a9398e4d70"
+metafile = true
+
+[[files]]
 file = "mods/map-atlases.pw.toml"
 hash = "6bdcc4657a59339b1849d1a4757aa551394fe6effc3b602b46f4ddc6933bea85"
 metafile = true
@@ -278,6 +313,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
 hash = "0a42eb060173bf1994e480d160de17d8a61af01758fc1c6b70f9a42dba75d61b"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "5ec7e0e8cb5d8cd6b09f49f9a8eff32a4f7c8f95af37e076644f15ea0011583f"
 metafile = true
 
 [[files]]
