@@ -31,6 +31,11 @@ hash = "76cdee64c8da3978c5e494a88a7876bdb60d69a8acbd155d915dec2c93c3a606"
 metafile = true
 
 [[files]]
+file = "mods/ascension-megamons.pw.toml"
+hash = "4e0bf7c5e10c98d28de759fb46557938c4a0f4171118225175fb659a45c6e49a"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "60a99d744e2d72e272cef239ce12f6c446afb9a20cd71c11cc44aa0895f48526"
 metafile = true
@@ -456,6 +461,11 @@ hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "68a63200033357a11616cf28f9db6c44e775034827b572628c208da2c92612ea"
 metafile = true
@@ -536,6 +546,11 @@ hash = "dbbeb7a8f32fdbe0d5e44a8c7671ed2297ee8d12d4610500ac54742e70b4fb53"
 metafile = true
 
 [[files]]
+file = "mods/tool-trims.pw.toml"
+hash = "a75d073b61ce24193367634602fdfd3c437da24a4df3dede4b307a7f3abbb493"
+metafile = true
+
+[[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
 metafile = true
@@ -543,6 +558,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
+metafile = true
+
+[[files]]
+file = "mods/vein-mining.pw.toml"
+hash = "cc0a19f55f9f04eb1b593129f81051afe20b119d126d40a5e4b03178a660e164"
 metafile = true
 
 [[files]]

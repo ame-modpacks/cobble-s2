@@ -1,0 +1,13 @@
+name = "Ascension Megamons (Cobblemon)"
+filename = "MegamonsFabric-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kYxnqmnH/versions/Nluvc2cF/MegamonsFabric-1.2.1.jar"
+hash-format = "sha1"
+hash = "1d677521424644085db744a0c30d5673887324a3"
+
+[update]
+[update.modrinth]
+mod-id = "kYxnqmnH"
+version = "Nluvc2cF"

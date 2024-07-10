@@ -1,12 +1,12 @@
 name = "Cobblemon - S2"
 author = "AmeMeida"
-version = "4.0.0"
+version = "4.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "da5f9739c68205101a5675511156b66a20a25a7afb3e72731ce66b4bf3f14ff6"
+hash = "ac0ef56cdd0735f29660024a4b2b4378d9772a41267eb1c39ee06fc9b11693e1"
 
 [versions]
 fabric = "0.15.11"
