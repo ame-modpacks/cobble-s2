@@ -1,13 +1,13 @@
 name = "Configured"
-filename = "Configurable-mc1.20.1-v1.2.2.jar"
+filename = "Configurable-mc1.20.1-v1.3.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/HlpEBg3R/versions/bvpQ3K9S/Configurable-mc1.20.1-v1.2.2.jar"
+url = "https://cdn.modrinth.com/data/HlpEBg3R/versions/ebkJUAO4/Configurable-mc1.20.1-v1.3.1.jar"
 hash-format = "sha1"
-hash = "0c9056c4097d4891d21b99b7e289ecd6f2a02831"
+hash = "7b753921547c6f415b9282a36c37ddd405cefbf7"
 
 [update]
 [update.modrinth]
 mod-id = "HlpEBg3R"
-version = "bvpQ3K9S"
+version = "ebkJUAO4"
