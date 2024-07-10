@@ -1,0 +1,13 @@
+name = "Cobblemon: Legendary Structures"
+filename = "cobblemon-legendary-structures-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FuRL3fNw/versions/ATpp0ncE/cobblemon-legendary-structures-1.1.jar"
+hash-format = "sha1"
+hash = "249d409d434003e6ab7786d1fd045553b97b9c94"
+
+[update]
+[update.modrinth]
+mod-id = "FuRL3fNw"
+version = "ATpp0ncE"

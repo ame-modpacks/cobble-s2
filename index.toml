@@ -6,6 +6,16 @@ hash = "73ca8e414d5370acc3a2d6eda4f4b7f1c273c78b0f5545a8c42425dec18e22f0"
 metafile = true
 
 [[files]]
+file = "mods/anvil-fix-reborn.pw.toml"
+hash = "2fc7a294cec5f3a36878e0565c706783e3858e4479b29829f2c151565b2a3770"
+metafile = true
+
+[[files]]
+file = "mods/anvil-restoration.pw.toml"
+hash = "1ddd3aa22f767164bcd0a8a3d37f30c166bc8764f8f7bfedf52d1560837f8a2a"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true
@@ -73,6 +83,41 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "54b6de813db1fc2774b4002898fa89f902a7efeb33a05197cf7bfda498f6b94e"
+metafile = true
+
+[[files]]
+file = "mods/cobbled-shiny-particles.pw.toml"
+hash = "4d2ec7d89701b9ea007251dd9a5080942e665d517fc35b175723bd2820c4a975"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-integrations.pw.toml"
+hash = "d9b089c65a50943da96f21ab74fe9e176aeceddb797d7127cfaed9e8000d73e1"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-legendary-structures.pw.toml"
+hash = "61ec1a826bc4d8d161136ae1dea98068c0ad280dfba291c8b8f85cfcac7d1d63"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon.pw.toml"
+hash = "abc57f063554e33a6bdd8b6aa39980293b1788fe4daea7f4d9cf215383d13145"
+metafile = true
+
+[[files]]
+file = "mods/cobblemonextras.pw.toml"
+hash = "45a614920e9607f956111c8164092fb1c45a0bbc7246374051c0f4c0c9ee65dd"
+metafile = true
+
+[[files]]
+file = "mods/cobblemore.pw.toml"
+hash = "5606aa597af501acbd3c92d7667be23725c00292c7a32e3ad9c6c55d777f2c96"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "cbb5ef46dd5b5a364af28c745ace8ac7bca73b34d1f90654ac76166ed3bccdc5"
 metafile = true
 
 [[files]]
@@ -181,6 +226,11 @@ hash = "8f0c18360533351fff9237b803b1a91fb86cc9b00d56e61f116076e654c9f8e8"
 metafile = true
 
 [[files]]
+file = "mods/enchantment-compat.pw.toml"
+hash = "f66ede91b3c2dfa0895cbc0b54c9871266362a2bbb64c80b9887a03974acef1e"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "33f865a014f3acf2c1f2c452bfe7ba1a864acad178322a6eab3759c7e63c9654"
 metafile = true
@@ -198,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "f957e7280d9bae7569829edcaff25b0ba05ddb029d24f4ea53bdfb0a79615fad"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
 metafile = true
 
 [[files]]
@@ -251,6 +306,16 @@ hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
 metafile = true
 
 [[files]]
+file = "mods/infinities.pw.toml"
+hash = "be58f4862def2fb53e021448315070c4906446fab73b4e88ee3e4a3d766e269d"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorting.pw.toml"
+hash = "cacd5a91708f799da27924f237b9252d05438de1f9b4e3e978bf3894e8574df0"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "bea7422cbe82074a7e6306cdcd0ab8941cce0e86e439fcbffd3d9930de3e32a3"
 metafile = true
@@ -261,8 +326,18 @@ hash = "d24bd05367fb73abe1e50347adc64ebe360b8f19019f37aeb991b9b722fe95a1"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "4a37864ebe44ddf66f7a127683adc76515d3dc97f8d8dba6fe362c43a1f39464"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "08466e36ec0585de1c99f28e5f91566160e06283e5d69ad47c74623f72ce9385"
 metafile = true
 
 [[files]]
@@ -283,6 +358,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "1bc3accf6072562427ad444cce1c56ae892f0d55d3ee632f5081a4eabf416da9"
 metafile = true
 
 [[files]]
@@ -381,13 +461,33 @@ hash = "68a63200033357a11616cf28f9db6c44e775034827b572628c208da2c92612ea"
 metafile = true
 
 [[files]]
+file = "mods/random-fishing.pw.toml"
+hash = "85a61588b370f7c1ba95fab71bdf2039dd568b99a3f84a4cfd3b34dfd839c3c3"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
 metafile = true
 
 [[files]]
+file = "mods/rhino.pw.toml"
+hash = "f3dbbcc93a34c8ba38b2e5a1ab3d5e898099d420ded6bd14ac01e0a7386b3b9a"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "e6d365b3adae4ea6000f80601cf0e35e5ddccb56b38faed9aa086008c0bd64e1"
+metafile = true
+
+[[files]]
 file = "mods/rrls.pw.toml"
 hash = "e96bb13c530a62100ad228f1c59f0fc37ceb91ec3e622a0a5d0e32cbe5d95424"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
 metafile = true
 
 [[files]]

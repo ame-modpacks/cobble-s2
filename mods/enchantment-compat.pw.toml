@@ -1,0 +1,13 @@
+name = "Enchantment Compatibility"
+filename = "enchantmentcompat-1.2.1+1.20.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/nmxvfgSx/versions/YIwzt6gc/enchantmentcompat-1.2.1%2B1.20.jar"
+hash-format = "sha1"
+hash = "7cab99a81e2b9ec79d12c6c9841121a861ac7090"
+
+[update]
+[update.modrinth]
+mod-id = "nmxvfgSx"
+version = "YIwzt6gc"

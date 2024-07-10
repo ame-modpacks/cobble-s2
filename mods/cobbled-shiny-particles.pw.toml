@@ -1,0 +1,13 @@
+name = "Cobblemon Cobbled Shiny Particles"
+filename = "cobbled-shiny-particles-1.0.6.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Wymvitu6/versions/cKGpPYGt/cobbled-shiny-particles-1.0.6.1.jar"
+hash-format = "sha1"
+hash = "612390f18fb18fdcca21cfdc71e19e3186f4f115"
+
+[update]
+[update.modrinth]
+mod-id = "Wymvitu6"
+version = "cKGpPYGt"
